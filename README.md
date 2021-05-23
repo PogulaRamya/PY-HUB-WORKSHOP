@@ -1,3 +1,1 @@
-# PY-HUB-WORKSHOP
-"pyhub-workshop-An online workshop organized by FSW_GRIET team where we will cover basics of python, mastering and execution of tic-tac -toe game with gui using pygame module and uploading in github right away!
-#This is my first project
+"Py-Hub Workshop"-An online workshop organized by FSW-GRIET team on Python where you will cover basics of Python, mastering and execution of Tic Tac Toe game with GUI using Pygame module and uploading it in Github parallelly
